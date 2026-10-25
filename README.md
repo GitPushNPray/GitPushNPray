@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**GitPushNPray/GitPushNPray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm GitPushNPray 👋
 
-Here are some ideas to get you started:
+> I write bugs. GitHub helps me document them. 💀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Exploring Python, AI, automation, and scientific computing.
+
+## 🚀 What I'm Working On
+
+- 🎙️ Speech-to-text using OpenAI Whisper
+- 🤖 AI and workflow automation with n8n
+- 🧪 Scientific computing and data analysis with Python
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python
+- **Data Science:** NumPy, pandas, Matplotlib
+- **AI/ML:** OpenAI Whisper
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 📌 Featured Projects
+
+- 🎙️ **Speech-to-Text** — Exploring automatic speech recognition and transcription accuracy.
+- 🤖 **Automation Projects** — Experimenting with workflows and AI-powered tools.
+
+## 🎯 Current Goals
+
+- Build useful projects instead of collecting tutorials.
+- Get better at Python and AI.
+- Turn questionable commits into working software.
+
+---
+
+*If it works, don't touch it. If it breaks, git push and pray.* 🙏
